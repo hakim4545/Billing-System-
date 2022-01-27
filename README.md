@@ -1,5 +1,8 @@
 # Billing-System-
 This simple software is developed in Python . Using Tkinter a python library for GUI development &amp; in backend used MySQL .This application can be used in billing .One can easily perform and manage the different billing activities by using this software.
+
+
+
 from tkinter import * 
 import random 
 class Bill_App: 
